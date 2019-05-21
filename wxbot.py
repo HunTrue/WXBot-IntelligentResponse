@@ -20,7 +20,7 @@ import HTMLParser
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-UNKONWN = 'unkonwn'
+UNKNOWN = 'unknown'
 SUCCESS = '200'
 SCANED = '201'
 TIMEOUT = '408'
